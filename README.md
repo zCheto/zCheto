@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=090c15&height=220&section=header&text=Welcome%20to%20Kiev's%20Github%20%3C/%3E&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/zCheto/zCheto/main/header_banner.svg" width="100%" alt="Header Banner"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- Social Badges Bar -->
   <a href="https://convertidor-kiev.onrender.com" target="_blank">
@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>Hello There! I'm <b>Kiev</b> 👋</h3>
       <p>Desarrollador web enfocado en crear aplicaciones modernas, rápidas, seguras y estéticas.</p>
       <ul>
@@ -33,8 +33,8 @@
         <li>⚡ <b>Enfoque:</b> Rendimiento, Streaming I/O, Aceleración por GPU y Seguridad</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="descargar.gif" width="100%" alt="Custom GIF"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/zCheto/zCheto/main/descargar.gif" width="100%" alt="Kiev Custom GIF"/>
     </td>
   </tr>
 </table>
