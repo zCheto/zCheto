@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>Hi! I'm <b>Kiev</b> 👋</h3>
-     .
+      <h3>Hi! I'm <b>Kiev</b> </h3>
+     ㅤㅤ
       <ul>
        </li>
-        .
+        ㅤㅤ
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
