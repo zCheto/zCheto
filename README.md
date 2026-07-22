@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>Hello There! I'm <b>Kiev</b> 👋</h3>
-      <p>Desarrollador web enfocado en crear aplicaciones modernas, rápidas, seguras y estéticas.</p>
+      <h3>Hi! I'm <b>Kiev</b> 👋</h3>
+     .
       <ul>
-        <li>🚀 <b>Proyecto Principal:</b> <a href="https://convertidor-kiev.onrender.com">Convertidor AVI a MP4 Online</a></li>
+       </li>
         <li>💻 <b>Especialidad:</b> Web Apps, Python Backend, Frontend UI/UX</li>
         <li>⚡ <b>Enfoque:</b> Rendimiento, Streaming I/O, Aceleración por GPU y Seguridad</li>
       </ul>
