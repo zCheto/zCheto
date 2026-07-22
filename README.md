@@ -29,8 +29,7 @@
      .
       <ul>
        </li>
-        <li>💻 <b>Especialidad:</b> Web Apps, Python Backend, Frontend UI/UX</li>
-        <li>⚡ <b>Enfoque:</b> Rendimiento, Streaming I/O, Aceleración por GPU y Seguridad</li>
+        .
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
